@@ -1,1 +1,1 @@
-# training-jenkins done
+# training-jenkins done auto
